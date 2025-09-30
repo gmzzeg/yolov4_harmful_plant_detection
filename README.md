@@ -1,13 +1,4 @@
-
-
-
-
-
-
-
-<img width="1920" height="1080" alt="output_detected_image2" src="https://github.com/user-attachments/assets/8694ba0c-c366-420c-8d48-a3bf8621cf01" />
-
-
+<img src="https://github.com/user-attachments/assets/5add2364-c6d5-497c-9de4-748023ecd958" width="300" />
 
 
 YOLOv4 Zararlı Bitki Tespit Sistemi
