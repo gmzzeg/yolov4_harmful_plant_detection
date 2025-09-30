@@ -1,4 +1,7 @@
-<img src="https://github.com/user-attachments/assets/5add2364-c6d5-497c-9de4-748023ecd958" width="300" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5add2364-c6d5-497c-9de4-748023ecd958" width="300" />
+</p>
+
 
 
 YOLOv4 Zararlı Bitki Tespit Sistemi
