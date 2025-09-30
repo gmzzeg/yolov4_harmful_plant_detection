@@ -34,9 +34,10 @@ Eğitim ve Ağırlıklar
 Eğitim sonrası en verimli alınan ağırlıklar:
 Google Drive Linki: https://drive.google.com/drive/folders/1fYnUDAAh40QuQE9-uHE-y2_eLYR1EVLo?usp=sharing
 
-Test için, ağırlıkları indirip test_image.py veya zararlı_zararsız.py ile kullanabilirsiniz.
+Test için, ağırlıkları indirip test_image.py ile kullanabilirsiniz.
 
 Not:
+
 -Proje prototip amaçlıdır ve sınırlı veri ile test edilmiştir.
 
 -Daha yüksek doğruluk ve kapsamlı kullanım için modelin daha büyük veri seti ile yeniden eğitilmesi önerilir.
