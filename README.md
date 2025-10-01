@@ -21,6 +21,7 @@ Temel Özellikler
 5.Görselleştirilmiş Sonuçlar: Tespit edilen bitkiler bounding box ve sınıf etiketi ile gösterilir.
 
 Not:
+
 -yolov4.cfg, obj.data ve obj.names dosyaları 6 sınıf için özelleştirilmiştir: "pink","black","orange","purple","white" ve "blue".
 
 -Kendi özel nesneleriniz için bu dosyalar düzenlenebilir.
